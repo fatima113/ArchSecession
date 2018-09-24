@@ -11,7 +11,7 @@ tags: [required]
 
 **Architect:** Josheph Maria Olbrich
 
-**Date of Construction:** 1986
+**Date of Construction:** 1896
 
 
 

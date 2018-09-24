@@ -6,11 +6,12 @@ tags: [required]
 ---
 
 **Name:** Secession Building
-**Location:** Vienna Austria
-**Architect:** Josheph Maria Olbrich
-**Date of Construction:** 1987
 
-**Here is some bold text**
+**Location:** Vienna Austria
+
+**Architect:** Josheph Maria Olbrich
+
+**Date of Construction:** 1987
 
 ## Here is a secondary heading
 

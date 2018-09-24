@@ -2,7 +2,7 @@
 layout: post
 title: Basic Facts
 subtitle: Each post also has a subtitle
-gh-repo: fatima113/fatima113.github.io
+gh-repo: daattali/beautiful-jekyll
 tags: [required]
 ---
 

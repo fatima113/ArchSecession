@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Non-Artist's Perspective
+gh-repo: daattali/beautiful-jekyll
 tags: [required]
 ---
 

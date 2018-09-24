@@ -17,7 +17,7 @@ baseurl: ""
 title: Secession Building
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: The start of the modernist movement
 
 # --- Navigation bar options --- #
 
@@ -36,7 +36,7 @@ description: A virtual proof that name is awesome!
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: https://artforum.com/uploads/upload.002/id09623/article0_large.jpg
 
 # --- Background colour/image options --- #
 

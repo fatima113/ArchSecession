@@ -13,8 +13,9 @@ baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
+theme: jekyll-theme-modernist
 # Name of website
-title: My website
+title: Secession Building
 
 # Short description of your site
 description: A virtual proof that name is awesome!

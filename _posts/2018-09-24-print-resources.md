@@ -1,7 +1,7 @@
 ---
 layout: post
 title: In Print
-gh-repo:
+gh-repo: daattali/beautiful-jekyll
 tags: [required]
 ---
 

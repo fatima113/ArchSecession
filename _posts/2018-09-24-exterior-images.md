@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exterior Photos
+title: On the Outside
 gh-repo: daattali/beautiful-jekyll
 tags: [required]
 ---

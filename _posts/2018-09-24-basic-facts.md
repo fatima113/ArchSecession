@@ -5,7 +5,7 @@ gh-repo: daattali/beautiful-jekyll
 tags: [required]
 ---
 
-**Name:** Secession Building or Sezession House
+**Name:** Secession Building
 
 **Location:** Vienna, Austria
 

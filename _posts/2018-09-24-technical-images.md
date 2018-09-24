@@ -6,7 +6,7 @@ tags: [required]
 ---
 
 # Plan
-![plan_drawing](http://library.artstor.org.ezproxy.lib.utexas.edu/asset/AWSS35953_35953_34649256)
+![plan_drawing](http://mdxdv.artstor.org/thumb/imgstor/size2/sslps/c35953/16515897.jpg)
 
 # Section
 

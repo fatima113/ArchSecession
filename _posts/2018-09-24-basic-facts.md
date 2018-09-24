@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basic Facts
+title: The Basics
 gh-repo: daattali/beautiful-jekyll
 tags: [required]
 ---

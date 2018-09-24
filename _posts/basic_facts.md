@@ -3,7 +3,6 @@ layout: post
 title: Basic Facts
 subtitle: 
 gh-repo: fatima113/fatima113.github.io
-gh-badge: [star, fork, follow]
 tags: [required]
 ---
 

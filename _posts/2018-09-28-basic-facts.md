@@ -13,7 +13,6 @@ tags: [required]
 
 **Date of Construction:** 1986
 
-
-####References
+#### References
 
 http://www.greatbuildings.com/buildings/Sezession_House.html

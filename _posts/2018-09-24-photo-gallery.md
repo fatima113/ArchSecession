@@ -10,6 +10,7 @@ tags: [4/7]
 * ![front entrance](https://www.bluffton.edu/homepages/facstaff/sullivanm/olbrich/entrancedet.jpg)
 * ![pot](https://www.bluffton.edu/homepages/facstaff/sullivanm/olbrich/entranceangle.jpg)
 * ![side detail](https://www.bluffton.edu/homepages/facstaff/sullivanm/olbrich/detside.jpg)
+* ![side detail gold](https://www.bluffton.edu/homepages/facstaff/sullivanm/olbrich/sideentrancedet.jpg)
 
 
  <script src="markdown-gallery/md-gallery.js"></script>
@@ -17,3 +18,7 @@ tags: [4/7]
 <script>
     md_gallery();
 </script>
+
+
+### References
+https://www.bluffton.edu/homepages/facstaff/sullivanm/olbrich/olbrich.html
